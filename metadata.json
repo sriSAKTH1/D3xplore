@@ -1,0 +1,8 @@
+{
+  "name": "D3xplore",
+  "description": "A comprehensive visual learning platform for Data Structures & Algorithms with AI-powered assistance.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
